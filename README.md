@@ -6,6 +6,6 @@ Contrairement à [d'autres jaunes](https://www.data.gouv.fr/fr/datasets/?q=jaune
 
 Ce dépot héberge donc les données extraites pour réutilisation en OpenData sous [licence ODbL](http://www.vvlibri.org/fr/licence/odbl/10/fr/legalcode) à partir du PDF [`jaune2016_commissions.pdf`](http://www.performance-publique.budget.gouv.fr/sites/performance_publique/files/farandole/ressources/2016/pap/pdf/jaunes/jaune2016_commissions.pdf) publié par Bercy pour le Projet de loi de Finances 2016.
 
-Les données ont été extraites automatiquement à l'aide de [PDF_table_scraper](https://github.com/regardscitoyens/PDF_table_scraper) par [@nathanncohen](https://github.com/nathanncohen) puis nettoyées humainement par recherche systématique de corrections nécessaires.
+Les données ont été extraites automatiquement à l'aide de [PDF_table_scraper](https://github.com/regardscitoyens/PDF_table_scraper) puis nettoyées humainement par recherche systématique de corrections nécessaires.
 
 [Regards Citoyens](http://RegardsCitoyens.org)
